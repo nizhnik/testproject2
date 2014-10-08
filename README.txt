@@ -1,2 +1,2 @@
 Read me!
-new line
+new
